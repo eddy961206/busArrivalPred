@@ -1,0 +1,7 @@
+{
+    "batch_size": 4096,
+    "unit_embedding_dim": 200,
+    "lr": 0.005,
+    "dropout_rate": 0.4,
+    "hash_size": 20000
+}

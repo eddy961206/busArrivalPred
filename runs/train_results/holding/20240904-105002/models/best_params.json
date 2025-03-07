@@ -1,0 +1,9 @@
+{
+    "lr": 0.00015648643179832415,
+    "dropout_rate": 0.23498143971199692,
+    "batch_size": 64,
+    "route_hash_size": 1452,
+    "location_hash_size": 13693,
+    "route_embedding_dim": 31,
+    "location_embedding_dim": 46
+}
